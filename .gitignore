@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files, build results, and Bazel files
+
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# macOS files
+.DS_Store
+
+# Node.js modules
+node_modules/
