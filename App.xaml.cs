@@ -1,5 +1,10 @@
+// App.xaml.cs
+
 using System.Windows;
-namespace AI_Temp {
-    public partial class App : Application {
+
+namespace YourNamespace
+{
+    public partial class App : Application
+    {
     }
 }
